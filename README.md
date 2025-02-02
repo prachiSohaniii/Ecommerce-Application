@@ -110,7 +110,8 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 ![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20233748.png)
 ![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/bd6d9ef17c8cb48c41f9377d015273ae97fcd910/Screenshots/Screenshot%202025-02-03%20013847.png)
-![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20233856.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/84017e94dd536b08ec90e6f1f57e64bd48673174/Screenshots/Screenshot%202025-02-03%20021752.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/84017e94dd536b08ec90e6f1f57e64bd48673174/Screenshots/Screenshot%202025-02-03%20021819.png)
 ![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20233944.png)
 ![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20234056.png)
 ![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20234511.png)
