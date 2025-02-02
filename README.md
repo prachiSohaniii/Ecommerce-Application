@@ -1,3 +1,34 @@
+React Native E-Commerce App
+
+ Overview
+
+This is a React Native e-commerce mobile application that provides a seamless shopping experience with features like product listing, cart management, user authentication, and checkout.
+
+ Features
+
+🔹 User Authentication (Signup, Login, Logout)
+
+🔹 Product Listing (Categories, Filters)
+
+🔹 Product Details Page (Images, Description)
+
+🔹 Shopping Cart (Add, Remove, Update Quantity)
+
+🔹 Wishlist Management
+
+🔹 Secure Checkout 
+
+🔹 Order History 
+
+ Tech Stack
+
+Frontend: React Native, Redux Toolkit, React Navigation
+
+State Management: Redux / Context API
+
+Payment Integration: Razorpay
+ 
+ 
  This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
