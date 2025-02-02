@@ -108,3 +108,12 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20233748.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20233856.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20233944.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20234056.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20234511.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-02%20234644.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-03%20012822.png)
+![UI](https://github.com/prachiSohaniii/Ecommerce-Application/blob/dddf916d1ac882cbc0ad6d219577309130d36e22/Screenshots/Screenshot%202025-02-03%20012918.png)
+
